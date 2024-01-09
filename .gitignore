@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
-/.pnp
+pnp
 .pnp.js
 yarn.lock
+appstew
+build
 
 # testing
 /coverage
